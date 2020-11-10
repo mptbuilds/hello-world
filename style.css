@@ -1,0 +1,13 @@
+.title {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 500;
+}
+
+.caption {
+  font-family: 'Karla', sans-serif;
+}
+
+#box {
+  border: 2px solid black;
+  padding: 2em;
+}
